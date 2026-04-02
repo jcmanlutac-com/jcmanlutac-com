@@ -5,11 +5,11 @@
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
     .name { font: 600 34px 'Consolas', monospace; fill: #ec8e50; animation: fadeIn 0.8s ease-in; }
     .title { font: 400 18px 'Consolas', monospace; fill: #8b949e; animation: fadeIn 1s ease-in; }
-    .section { font: 600 16px 'Consolas', monospace; fill: #ec8e50; }
-    .label { font: 400 16px 'Consolas', monospace; fill: #c9d1d9; }
-    .value { font: 400 16px 'Consolas', monospace; fill: #8b949e; }
-    .dash { font: 400 16px 'Consolas', monospace; fill: #484f58; }
-    .link { font: 400 16px 'Consolas', monospace; fill: #ec8e50; }
+    .section { font: 600 15px 'Consolas', monospace; fill: #ec8e50; }
+    .label { font: 400 15px 'Consolas', monospace; fill: #c9d1d9; }
+    .value { font: 400 15px 'Consolas', monospace; fill: #8b949e; }
+    .dash { font: 400 15px 'Consolas', monospace; fill: #484f58; }
+    .link { font: 400 15px 'Consolas', monospace; fill: #ec8e50; }
     .divider { stroke: #30363d; stroke-width: 1; }
     .cursor { animation: blink 1s step-end infinite; fill: #ec8e50; }
     .row { animation: slideRight 0.6s ease-out backwards; }
