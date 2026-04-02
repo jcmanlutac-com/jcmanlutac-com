@@ -1,7 +1,7 @@
 <a href="https://github.com/jcmanlutac-com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcmanlutac-com/jcmanlutac-com/main/dark_mode.svg">
-    <img alt="Jonathan M.'s GitHub Profile" src="https://raw.githubusercontent.com/jcmanlutac-com/jcmanlutac-com/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcmanlutac-com/jcmanlutac-com/main/dark_mode.svg?v=2">
+    <img alt="Jonathan M.'s GitHub Profile" src="https://raw.githubusercontent.com/jcmanlutac-com/jcmanlutac-com/main/light_mode.svg?v=2">
   </picture>
 </a>
 
