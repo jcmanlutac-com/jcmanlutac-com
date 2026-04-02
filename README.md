@@ -12,10 +12,12 @@
 <p>
 <!-- Add a bulleted list of your skills, experience, and interests here. For example: -->
 <ul>
-  <li>Skill 1</li>
-  <li>Skill 2</li>
-  <li>Experience 1</li>
-  <li>Interest 1</li>
+  <li>Actively developing Alaeh.ph app. A web and mobile platform for local businesses related to real estate data.</li>
+  <li>I am currently learning Data Structure and Algorithms in Python, with a focus on real estate data aggregation.</li>
+  <li>Previously, I was a Technical Support Specialist at Jotform for 13 years, providing assistance to users and troubleshooting technical issues.</li>
+  <li>Aspiring Python Developer with focus on real estate data analysis and web development. Career shift towards technology and data-driven solutions.</li>
+  <li>I like watching podcasts, lately mostly related to AI and automation.</li>
+  <li>In my free time, I enjoy playing CRPG games and exploring modding communities.</li>
 </ul>
 
 </p>
