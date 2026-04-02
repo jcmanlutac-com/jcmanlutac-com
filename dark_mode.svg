@@ -34,13 +34,13 @@
     <text><tspan class="dash">_</tspan><tspan class="section"> Skill Set </tspan><tspan class="dash">________________________________________________________________________________________</tspan></text>
   </g>
   <g transform="translate(25, 120)" class="row d1">
-    <text><tspan class="label">- Languages.Frontend:</tspan><tspan class="dash"> ------------------------------------------------- </tspan><tspan class="value">HTML, CSS, JSON, JavaScript</tspan></text>
+    <text><tspan class="label">- Languages.Frontend:</tspan><tspan class="dash"> --------------------------------------------------- </tspan><tspan class="value">HTML, CSS, JSON, JavaScript</tspan></text>
   </g>
   <g transform="translate(25, 140)" class="row d2">
     <text><tspan class="label">- Languages.Programming:</tspan><tspan class="dash"> --------------------------------------------------------- </tspan><tspan class="value">Python, SQL, PHP</tspan></text>
   </g>
   <g transform="translate(25, 160)" class="row d3">
-    <text><tspan class="label">- Languages.Spoken:</tspan><tspan class="dash"> --------------------------------------------------------------- </tspan><tspan class="value">English, Filipino</tspan></text>
+    <text><tspan class="label">- Languages.Spoken:</tspan><tspan class="dash"> ------------------------------------------------------------- </tspan><tspan class="value">English, Filipino</tspan></text>
   </g>
   <g transform="translate(25, 180)" class="row d4">
     <text><tspan class="label">- Others:</tspan><tspan class="dash"> --------------------------------------------- </tspan><tspan class="value">Jotform, Salesforce, Make, GitHub, VS Code</tspan></text>

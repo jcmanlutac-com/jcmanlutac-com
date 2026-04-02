@@ -40,10 +40,10 @@
     <text><tspan class="label">- Languages.Programming:</tspan><tspan class="dash"> --------------------------------------------------------- </tspan><tspan class="value">Python, SQL, PHP</tspan></text>
   </g>
   <g transform="translate(25, 160)" class="row d3">
-    <text><tspan class="label">- Languages.Spoken:</tspan><tspan class="dash"> --------------------------------------------------------------- </tspan><tspan class="value">English, Filipino</tspan></text>
+    <text><tspan class="label">- Languages.Spoken:</tspan><tspan class="dash"> ------------------------------------------------------------- </tspan><tspan class="value">English, Filipino</tspan></text>
   </g>
   <g transform="translate(25, 180)" class="row d4">
-    <text><tspan class="label">- Others:</tspan><tspan class="dash"> --------------------------------------------- </tspan><tspan class="value">Jotform, Salesforce, Make, GitHub, VS Code</tspan></text>
+    <text><tspan class="label">- Others:</tspan><tspan class="dash"> ----------------------------------------------- </tspan><tspan class="value">Jotform, Salesforce, Make, GitHub, VS Code</tspan></text>
   </g>
 
   <!-- Contact Section -->
