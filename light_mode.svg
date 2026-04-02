@@ -4,12 +4,12 @@
     @keyframes slideRight { from { transform: translateX(-10px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
     .name { font: 600 34px 'Consolas', monospace; fill: #d15d0f; animation: fadeIn 0.8s ease-in; }
-    .title { font: 400 16px 'Consolas', monospace; fill: #212325; animation: fadeIn 1s ease-in; }
-    .section { font: 600 14px 'Consolas', monospace; fill: #d15d0f; }
-    .label { font: 400 14px 'Consolas', monospace; fill: #24292f; }
-    .value { font: 400 14px 'Consolas', monospace; fill: #212325; }
-    .dash { font: 400 14px 'Consolas', monospace; fill: #d0d7de; }
-    .link { font: 400 14px 'Consolas', monospace; fill: #d15d0f; }
+    .title { font: 400 18px 'Consolas', monospace; fill: #212325; animation: fadeIn 1s ease-in; }
+    .section { font: 600 16px 'Consolas', monospace; fill: #d15d0f; }
+    .label { font: 400 16px 'Consolas', monospace; fill: #24292f; }
+    .value { font: 400 16px 'Consolas', monospace; fill: #212325; }
+    .dash { font: 400 16px 'Consolas', monospace; fill: #d0d7de; }
+    .link { font: 400 16px 'Consolas', monospace; fill: #d15d0f; }
     .divider { stroke: #d0d7de; stroke-width: 1; }
     .cursor { animation: blink 1s step-end infinite; fill: #d15d0f; }
     .row { animation: slideRight 0.6s ease-out backwards; }
