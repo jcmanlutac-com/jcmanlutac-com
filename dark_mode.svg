@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="195" viewBox="0 0 854 195">
+  <style>
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes slideRight { from { transform: translateX(-10px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .header { font: 600 28px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; animation: fadeIn 0.8s ease-in; }
+    .subheader { font: 400 16px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; animation: fadeIn 1s ease-in; }
+    .label { font: 600 13px 'Segoe UI', Ubuntu, monospace; fill: #c9d1d9; }
+    .value { font: 400 13px 'Segoe UI', Ubuntu, monospace; fill: #8b949e; }
+    .dots { font: 400 13px 'Segoe UI', Ubuntu, monospace; fill: #484f58; }
+    .link { font: 400 13px 'Segoe UI', Ubuntu, monospace; fill: #58a6ff; }
+    .line { animation: slideRight 0.6s ease-out backwards; }
+    .line:nth-child(3) { animation-delay: 0.1s; }
+    .line:nth-child(4) { animation-delay: 0.2s; }
+    .line:nth-child(5) { animation-delay: 0.3s; }
+    .line:nth-child(6) { animation-delay: 0.4s; }
+    .line:nth-child(7) { animation-delay: 0.5s; }
+    .line:nth-child(8) { animation-delay: 0.6s; }
+    .line:nth-child(9) { animation-delay: 0.7s; }
+    .cursor { animation: blink 1s step-end infinite; fill: #58a6ff; }
+  </style>
+  <rect width="854" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(25, 38)">
+    <text class="header">Jonathan M.</text>
+    <text class="cursor" x="178" y="0" font-size="28">|</text>
+  </g>
+  <g transform="translate(25, 62)">
+    <text class="subheader">Technical Support Analyst · IT Specialist · Freelancer</text>
+  </g>
+  <line x1="25" y1="75" x2="829" y2="75" stroke="#21262d" stroke-width="1"/>
+  <g transform="translate(25, 98)" class="line">
+    <text class="label">Experience</text>
+    <text class="dots" x="90" y="0"> ............. </text>
+    <text class="value" x="210" y="0">10+ years in Technical Operations, Support &amp; Automation</text>
+  </g>
+  <g transform="translate(25, 118)" class="line">
+    <text class="label">Skills</text>
+    <text class="dots" x="55" y="0"> .................. </text>
+    <text class="value" x="210" y="0">Technical Support · Automation · Workflows · SaaS · Web Management</text>
+  </g>
+  <g transform="translate(25, 138)" class="line">
+    <text class="label">Technologies</text>
+    <text class="dots" x="100" y="0"> ............ </text>
+    <text class="value" x="210" y="0">Python · JavaScript · HTML · CSS · PHP · GitHub</text>
+  </g>
+  <g transform="translate(25, 158)" class="line">
+    <text class="label">Focus</text>
+    <text class="dots" x="48" y="0"> ................... </text>
+    <text class="value" x="210" y="0">Data Analysis · Data Visualization · Web Scraping · Process Automation</text>
+  </g>
+  <g transform="translate(25, 178)" class="line">
+    <text class="label">Contact</text>
+    <text class="dots" x="65" y="0"> ................. </text>
+    <text class="link" x="210" y="0">jonathan@jcmanlutac.com</text>
+  </g>
+</svg>
