@@ -1,19 +1,3 @@
-<!-- Generate code to use Consolas font for the entire README.md file. You can achieve this by adding the following CSS code to the top of your README.md file:
-
-```css
-body {
-  font-family: 'Consolas', monospace;
-}
-```
-Make sure to include the CSS code within a `<style>` tag if you're using it in an HTML context, or simply add it at the top of your README.md file if you're using Markdown. This will ensure that the Consolas font is applied to all text in your README.md file. 
--->
-```css
-body {
-  font-family: 'Consolas', monospace;
-}
-```
-
-
 <a href="https://github.com/jcmanlutac-com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcmanlutac-com/jcmanlutac-com/main/dark_mode.svg?v=2">
@@ -26,7 +10,13 @@ body {
 ### About Me
 
 <p>
-
+<!-- Add a bulleted list of your skills, experience, and interests here. For example: -->
+<ul>
+  <li>Skill 1</li>
+  <li>Skill 2</li>
+  <li>Experience 1</li>
+  <li>Interest 1</li>
+</ul>
 
 </p>
 
