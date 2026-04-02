@@ -3,22 +3,22 @@
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes slideRight { from { transform: translateX(-10px); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
-    .name { font: 600 30px 'Courier New', monospace; fill: #ec8e50; animation: fadeIn 0.8s ease-in; }
-    .title { font: 400 15px 'Courier New', monospace; fill: #57606a; animation: fadeIn 1s ease-in; }
-    .section { font: 600 13px 'Courier New', monospace; fill: #ec8e50; }
+    .name { font: 600 30px 'Courier New', monospace; fill: #d15d0f; animation: fadeIn 0.8s ease-in; }
+    .title { font: 400 15px 'Courier New', monospace; fill: #212325; animation: fadeIn 1s ease-in; }
+    .section { font: 600 13px 'Courier New', monospace; fill: #d15d0f; }
     .label { font: 400 13px 'Courier New', monospace; fill: #24292f; }
-    .value { font: 400 13px 'Courier New', monospace; fill: #57606a; }
+    .value { font: 400 13px 'Courier New', monospace; fill: #212325; }
     .dash { font: 400 13px 'Courier New', monospace; fill: #d0d7de; }
-    .link { font: 400 13px 'Courier New', monospace; fill: #ec8e50; }
+    .link { font: 400 13px 'Courier New', monospace; fill: #d15d0f; }
     .divider { stroke: #d0d7de; stroke-width: 1; }
-    .cursor { animation: blink 1s step-end infinite; fill: #ec8e50; }
+    .cursor { animation: blink 1s step-end infinite; fill: #d15d0f; }
     .row { animation: slideRight 0.6s ease-out backwards; }
     .d1 { animation-delay: 0.05s; } .d2 { animation-delay: 0.1s; } .d3 { animation-delay: 0.15s; }
     .d4 { animation-delay: 0.2s; } .d5 { animation-delay: 0.25s; } .d6 { animation-delay: 0.3s; }
     .d7 { animation-delay: 0.35s; } .d8 { animation-delay: 0.4s; } .d9 { animation-delay: 0.45s; }
     .d10 { animation-delay: 0.5s; } .d11 { animation-delay: 0.55s; }
   </style>
-  <rect width="854" height="400" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect width="854" height="400" rx="10" fill="#eeeeff " stroke="#d0d7de" stroke-width="1"/>
 
   <!-- Header -->
   <g transform="translate(25, 38)">
