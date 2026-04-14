@@ -38,7 +38,7 @@
 ### Connect with Me
 
 <p>
-  <a href="https://www.upwork.com/services/product/admin-customer-support-automated-processes-to-streamline-output-and-analyze-workflow-efficiency-2040827501931116765?ref=project_share"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~010902d5c96f8447df"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jcmanlutac/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/jcmanlutac-com"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:jonathan@jcmanlutac.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
