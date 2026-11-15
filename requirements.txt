@@ -1,0 +1,5 @@
+# This repository currently contains no Python application dependencies.
+matplotlib
+seaborn
+geopandas
+contextily
