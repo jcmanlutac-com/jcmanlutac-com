@@ -3,3 +3,6 @@ matplotlib
 seaborn
 geopandas
 contextily
+psycopg[binary]
+python-dotenv
+SQLAlchemy
