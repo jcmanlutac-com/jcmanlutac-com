@@ -1,4 +1,6 @@
-"""Minimal HTTP application exposing a health-check endpoint."""
+"""
+Redirect all root requests to the GitHub repository.
+Minimal HTTP application exposing a health-check endpoint."""
 
 from __future__ import annotations
 
