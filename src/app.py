@@ -19,6 +19,10 @@ class HealthCheckHandler(BaseHTTPRequestHandler):
     """Handle requests for the application's health endpoint."""
 
     def do_GET(self) -> None:
+        if self.path == "/":
+            self._redirect_to_github()
+            return
+
         if self.path != "/healthz":
             self.send_error(HTTPStatus.NOT_FOUND)
             return
@@ -26,11 +30,23 @@ class HealthCheckHandler(BaseHTTPRequestHandler):
         self._send_json(HTTPStatus.OK, healthz())
 
     def do_HEAD(self) -> None:
+        if self.path == "/":
+            self._redirect_to_github()
+            return
+
         if self.path != "/healthz":
             self.send_error(HTTPStatus.NOT_FOUND)
             return
 
         self._send_json(HTTPStatus.OK, healthz(), include_body=False)
+
+    def _redirect_to_github(self) -> None:
+        self.send_response(HTTPStatus.FOUND)
+        self.send_header(
+            "Location",
+            "https://github.com/jcmanlutac-com/jcmanlutac-com",
+        )
+        self.end_headers()
 
     def _send_json(
         self,
