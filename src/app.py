@@ -46,7 +46,7 @@ class HealthCheckHandler(BaseHTTPRequestHandler):
         self.send_response(HTTPStatus.FOUND)
         self.send_header(
             "Location",
-            "https://github.com/jcmanlutac-com/jcmanlutac-com",
+            "https://github.com/jcmanlutac-com",
         )
         self.end_headers()
 
