@@ -27,4 +27,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcmanlutac/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jcmanlutac-com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan@jcmanlutac.com)
-[![Alaeh.PH](https://img.shields.io/badge/Alaeh.PH-Live-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://alaeh.ph/)
+[![Alaeh.PH](https://img.shields.io/static/v1?label=Alaeh.PH&message=Live&color=000000&style=flat-square)](https://alaeh.ph/)
